@@ -1,0 +1,6 @@
+{
+  "name": "규인 플리 벤치마킹 분석기",
+  "description": "유튜브 플레이리스트 채널 기획을 위한 벤치마킹 분석 및 차별화 기획안 생성 워크시트 도구",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
